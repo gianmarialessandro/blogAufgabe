@@ -1,4 +1,4 @@
-# blogAufgabe
+# blog Aufgabe (PERSONAL PROJEKT)
 creation of a web page with php and MySQl to present in class
 
 # Das Projekt besteht aus einem Blog. 
