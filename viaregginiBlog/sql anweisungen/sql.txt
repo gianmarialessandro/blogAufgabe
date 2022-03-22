@@ -1,0 +1,16 @@
+
+
+
+
+create database projektebas;
+
+use projektebas;
+
+create table ins (
+id INT AUTO_INCREMENT PRIMARY KEY,
+vorname VARCHAR(50) NOT NULL,
+name VARCHAR(50) NOT NULL,
+ueberschrift VARCHAR(70) NOT NULL,
+artikel VARCHAR(5000) NOT NULL,
+datum TIMESTAMP  NOT NULL
+);
